@@ -1,3 +1,5 @@
+
+smart contract based dice game
 # ROll2Win : Roll the dice to win the game
 
 This smart contract is simple contract written for the two player game, where each player compete with each other 
@@ -79,3 +81,4 @@ part - 2 ( frontend deployment)
 6. npm start - to start the frontend project
 
 ## You should see the project starting at localhost:3000 and here you can interact with smart contract as per the need
+# roll2win
